@@ -3,7 +3,7 @@
 #include "coche.h"
 #include "clases_derivadas.h"
 
-int main() {
+int main() { // menuda shit brother
     // 1. REQUISITO: Crear varios objetos iniciales
     Coche miCoche("Toyota", "Corolla", 2022, "YUC-101", 4);
     Moto miMoto("Italika", "250Z", 2024, "TEMP-001", 250);
