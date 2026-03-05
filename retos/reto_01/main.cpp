@@ -12,7 +12,7 @@ int main() {
     int opcion = 0;
     std::string nuevaPlaca;
 
-    // El bucle while mantiene vivo el programa
+    // El bucle while mantiene vivo el programa //organizar mejor el codigo
     while (opcion != 4) {
         std::cout << "\n========================================" << std::endl;
         std::cout << "   SISTEMA DE GESTION DE PLACAS UADY    " << std::endl;
